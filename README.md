@@ -1,7 +1,7 @@
 # Open in Lunacy (icons8)
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/davidbucka/vscode-open-in-sketch/master/resources/logo.png" alt="Logo">
+	<img src="https://raw.githubusercontent.com/giulianojordao/vscode-open-in-lunacy/master/resources/logo.png" alt="Logo">
 </p>
 
 Adds a command for opening your current .sketch or .svg file in
